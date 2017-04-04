@@ -157,13 +157,13 @@ GLvoid ShaderManager::link_shader(GLuint &prgm_idx, vector<GLuint> shaders_idx) 
 	for (int i = 0; i < shaders_idx.size(); i++)
 		glAttachShader(prgm_idx, shaders_idx[i]);
 
-	this->programs_vtr.push_back(prgm_idx);
+	this->prgms_vtr.push_back(prgm_idx);
 
 	GLint link_status;
 
 	if (link_status) {
 
-		cout << "Shader Program " << prgm_idx << " has been linked successfully" << end;
+		cout << "Shader Program " << prgm_idx << " has been linked successfully" << endl;
 
 	}
 	else {
@@ -189,4 +189,30 @@ GLvoid ShaderManager::link_shader(GLuint &prgm_idx, vector<GLuint> shaders_idx) 
 	}
 
 	cout << "Linking End" << endl;
+}
+
+GLvoid ShaderManager::execute_shader_program(GLuint &prgm_idx) {
+
+	if(this->prgms_vtr.end() == 
+		find(this->prgms_vtr.begin(), this->prgms_vtr.end(), prgm_idx)) {
+
+		cout << "Error : Shader Program " << prgm_idx << " has not been created" << endl;
+
+	}
+	else {
+
+		cout << "Executing Shader Program " << prgm_idx << endl;
+
+		glUseProgram(prgm_idx);
+
+	}
+
+}
+
+GLvoid ShaderManager::stop_shader_program() {
+
+	cout << "Stop the shader program" << endl;
+
+	glUseProgram(0);
+
 }

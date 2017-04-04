@@ -20,9 +20,15 @@ public:
 
 	GLvoid link_shader(GLuint &prgm_idx, vector<GLuint> shaders_idx);
 
+	GLvoid execute_shader_program(GLuint &prgm_idx);
+
+	GLvoid stop_shader_program();
+
+	GLvoid create_shader_program(vector<string> glsl_files_name);
+
 private:
 
-	vector<GLuint> programs_vtr;
+	vector<GLuint> prgms_vtr;
 
 };
 
