@@ -2,7 +2,7 @@
 #ifndef SHADER_MANAGER_H
 #define SHADER_MANAGER_H
 
-#include "NecessaryHeader.h"
+#include "NecessaryHeaders.h"
 
 class ShaderManager {
 
@@ -24,7 +24,7 @@ public:
 
 	GLvoid stop_shader_program();
 
-	GLvoid create_shader_program(vector<string> glsl_files_name);
+	GLvoid create_shader_program(vector<string> &glsl_files_name);
 
 private:
 

@@ -138,10 +138,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="NecessaryHeader.h" />
+    <ClInclude Include="NecessaryHeaders.h" />
     <ClInclude Include="ShaderManager.h" />
+    <ClInclude Include="ShaderTypePackage.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="ShaderManager.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -157,6 +157,8 @@ GLvoid ShaderManager::link_shader(GLuint &prgm_idx, vector<GLuint> shaders_idx) 
 	for (int i = 0; i < shaders_idx.size(); i++)
 		glAttachShader(prgm_idx, shaders_idx[i]);
 
+	glLinkProgram(prgm_idx);
+
 	this->prgms_vtr.push_back(prgm_idx);
 
 	GLint link_status;
@@ -214,5 +216,11 @@ GLvoid ShaderManager::stop_shader_program() {
 	cout << "Stop the shader program" << endl;
 
 	glUseProgram(0);
+
+}
+
+GLvoid ShaderManager::create_shader_program(vector<string> &glsl_files_name){
+
+
 
 }
