@@ -88,7 +88,7 @@ GLvoid ShaderManager::unload_shader(GLchar **shader_src) {
 
 }
 
-GLuint ShaderManager::compile_shader(GLchar **shader_src, int shader_type, GLint &len) {
+GLuint ShaderManager::compile_shader(GLchar **shader_src, GLuint shader_type, GLint &len) {
 	
 	cout << "Compiling Shader..." << endl;
 
@@ -219,8 +219,31 @@ GLvoid ShaderManager::stop_shader_program() {
 
 }
 
-GLvoid ShaderManager::create_shader_program(vector<string> &glsl_files_name){
+GLuint ShaderManager::create_shader_program(ShaderTypeList &shader_list){
 
+	int i = 0;
 
+	vector<GLuint> shaders_idx;
+	GLuint prgm_idx;
 
+	while (i < SHADER_TYPE_NUM) {
+
+		string shader_name = shader_list.get_list()[i];
+		
+		if (shader_name != "") {
+
+			GLchar **shader_src;
+			GLint len;
+
+			load_shader(shader_name, shader_src, len);
+			shaders_idx.push_back(compile_shader(shader_src, ShaderTypeIndex[i], len));
+			
+		}
+
+		i++;
+	}
+
+	link_shader(prgm_idx, shaders_idx);
+
+	return prgm_idx;
 }

@@ -140,7 +140,7 @@
   <ItemGroup>
     <ClInclude Include="NecessaryHeaders.h" />
     <ClInclude Include="ShaderManager.h" />
-    <ClInclude Include="ShaderTypePackage.h" />
+    <ClInclude Include="ShaderTypeList.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />

@@ -3,6 +3,7 @@
 #define SHADER_MANAGER_H
 
 #include "NecessaryHeaders.h"
+#include "ShaderTypeList.h"
 
 class ShaderManager {
 
@@ -16,7 +17,7 @@ public:
 
 	GLvoid unload_shader(GLchar **shader_src);
 
-	GLuint compile_shader(GLchar **shader_src, int shader_type, GLint &len);
+	GLuint compile_shader(GLchar **shader_src, GLuint shader_type, GLint &len);
 
 	GLvoid link_shader(GLuint &prgm_idx, vector<GLuint> shaders_idx);
 
@@ -24,7 +25,7 @@ public:
 
 	GLvoid stop_shader_program();
 
-	GLvoid create_shader_program(vector<string> &glsl_files_name);
+	GLuint create_shader_program(ShaderTypeList &shader_list);
 
 private:
 
