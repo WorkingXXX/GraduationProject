@@ -1,0 +1,22 @@
+﻿  test.cpp
+c:\users\zzxx\desktop\graduationproject\graduationproject\graduationproject\graduationproject\test.cpp(11): warning C4081: expected 'identifier'; found '('
+ShaderManager.obj : error LNK2019: unresolved external symbol "public: unsigned char __cdecl ShaderManager::glsl_ext_check(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)" (?glsl_ext_check@ShaderManager@@QEAAEAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) referenced in function "public: void __cdecl ShaderManager::load_shader(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,char * *,int &)" (?load_shader@ShaderManager@@QEAAXAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PEAPEADAEAH@Z)
+ShaderManager.obj : error LNK2001: unresolved external symbol __imp___glewAttachShader
+ShaderManager.obj : error LNK2001: unresolved external symbol __imp___glewCreateShader
+ShaderManager.obj : error LNK2001: unresolved external symbol __imp___glewGetShaderiv
+ShaderManager.obj : error LNK2001: unresolved external symbol __imp___glewLinkProgram
+ShaderManager.obj : error LNK2001: unresolved external symbol __imp___glewShaderSource
+ShaderManager.obj : error LNK2001: unresolved external symbol __imp___glewUseProgram
+ShaderManager.obj : error LNK2001: unresolved external symbol __imp___glewCompileShaderARB
+ShaderManager.obj : error LNK2001: unresolved external symbol __imp___glewGetInfoLogARB
+ShaderManager.obj : error LNK2001: unresolved external symbol __imp___glewGetObjectParameterivARB
+test.obj : error LNK2019: unresolved external symbol __imp_glewInit referenced in function main
+test.obj : error LNK2001: unresolved external symbol __imp___glewBindBuffer
+test.obj : error LNK2001: unresolved external symbol __imp___glewBufferData
+test.obj : error LNK2001: unresolved external symbol __imp___glewGenBuffers
+test.obj : error LNK2001: unresolved external symbol __imp___glewEnableVertexAttribArray
+test.obj : error LNK2001: unresolved external symbol __imp___glewVertexAttribPointer
+test.obj : error LNK2001: unresolved external symbol __imp___glewBindVertexArray
+test.obj : error LNK2001: unresolved external symbol __imp___glewGenVertexArrays
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: unresolved external symbol WinMain referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\GraduationProject\x64\Debug\GraduationProject.exe : fatal error LNK1120: 19 unresolved externals

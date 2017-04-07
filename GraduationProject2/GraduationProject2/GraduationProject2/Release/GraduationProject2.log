@@ -1,0 +1,8 @@
+﻿  main.cpp
+  ShaderManager.cpp
+c:\users\zzxx\desktop\graduationproject\graduationproject\graduationproject2\graduationproject2\graduationproject2\ShaderTools.h(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\zzxx\desktop\graduationproject\graduationproject\graduationproject2\graduationproject2\graduationproject2\ShaderTools.h(33): warning C4018: '<': signed/unsigned mismatch
+  test.cpp
+c:\users\zzxx\desktop\graduationproject\graduationproject\graduationproject2\graduationproject2\graduationproject2\ShaderTools.h(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\zzxx\desktop\graduationproject\graduationproject\graduationproject2\graduationproject2\graduationproject2\ShaderTools.h(33): warning C4018: '<': signed/unsigned mismatch
+LINK : fatal error LNK1104: cannot open file 'freeglutd.lib'

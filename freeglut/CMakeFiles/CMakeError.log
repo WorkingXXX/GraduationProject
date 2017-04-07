@@ -1,0 +1,304 @@
+Determining if files unistd.h exist failed with the following output:
+Change Dir: C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_c93ee.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) 生成引擎版本 14.0.25420.1
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/4/7 14:36:03。
+节点 1 上的项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_c93ee.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_c93ee.dir\Debug\”。
+  正在创建目录“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_c93ee.dir\Debug\cmTC_c93ee.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_c93ee.dir\Debug\cmTC_c93ee.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\VisualStdio2015\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c93ee.dir\Debug\\" /Fd"cmTC_c93ee.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\CheckIncludeFiles.c
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.00.24213.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c93ee.dir\Debug\\" /Fd"cmTC_c93ee.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\CheckIncludeFiles.c
+  
+  CheckIncludeFiles.c
+C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(2): fatal error C1083: 无法打开包括文件: “unistd.h”: No such file or directory [C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_c93ee.vcxproj]
+已完成生成项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_c93ee.vcxproj”(默认目标)的操作 - 失败。
+
+生成失败。
+
+“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_c93ee.vcxproj”(默认目标) (1) ->
+(ClCompile 目标) -> 
+  C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(2): fatal error C1083: 无法打开包括文件: “unistd.h”: No such file or directory [C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_c93ee.vcxproj]
+
+    0 个警告
+    1 个错误
+
+已用时间 00:00:04.95
+
+Source:
+/* */
+#include <unistd.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/time.h exist failed with the following output:
+Change Dir: C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_6eb9b.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) 生成引擎版本 14.0.25420.1
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/4/7 14:36:52。
+节点 1 上的项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_6eb9b.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_6eb9b.dir\Debug\”。
+  正在创建目录“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_6eb9b.dir\Debug\cmTC_6eb9b.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_6eb9b.dir\Debug\cmTC_6eb9b.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\VisualStdio2015\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_6eb9b.dir\Debug\\" /Fd"cmTC_6eb9b.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\CheckIncludeFiles.c
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.00.24213.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_6eb9b.dir\Debug\\" /Fd"cmTC_6eb9b.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\CheckIncludeFiles.c
+  
+  CheckIncludeFiles.c
+C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(2): fatal error C1083: 无法打开包括文件: “sys/time.h”: No such file or directory [C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_6eb9b.vcxproj]
+已完成生成项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_6eb9b.vcxproj”(默认目标)的操作 - 失败。
+
+生成失败。
+
+“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_6eb9b.vcxproj”(默认目标) (1) ->
+(ClCompile 目标) -> 
+  C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(2): fatal error C1083: 无法打开包括文件: “sys/time.h”: No such file or directory [C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_6eb9b.vcxproj]
+
+    0 个警告
+    1 个错误
+
+已用时间 00:00:03.88
+
+Source:
+/* */
+#include <sys/time.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/param.h exist failed with the following output:
+Change Dir: C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_18592.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) 生成引擎版本 14.0.25420.1
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/4/7 14:37:23。
+节点 1 上的项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_18592.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_18592.dir\Debug\”。
+  正在创建目录“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_18592.dir\Debug\cmTC_18592.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_18592.dir\Debug\cmTC_18592.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\VisualStdio2015\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_18592.dir\Debug\\" /Fd"cmTC_18592.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\CheckIncludeFiles.c
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.00.24213.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_18592.dir\Debug\\" /Fd"cmTC_18592.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\CheckIncludeFiles.c
+  
+  CheckIncludeFiles.c
+C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(2): fatal error C1083: 无法打开包括文件: “sys/param.h”: No such file or directory [C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_18592.vcxproj]
+已完成生成项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_18592.vcxproj”(默认目标)的操作 - 失败。
+
+生成失败。
+
+“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_18592.vcxproj”(默认目标) (1) ->
+(ClCompile 目标) -> 
+  C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(2): fatal error C1083: 无法打开包括文件: “sys/param.h”: No such file or directory [C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_18592.vcxproj]
+
+    0 个警告
+    1 个错误
+
+已用时间 00:00:03.55
+
+Source:
+/* */
+#include <sys/param.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/ioctl.h exist failed with the following output:
+Change Dir: C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_0000b.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) 生成引擎版本 14.0.25420.1
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/4/7 14:37:34。
+节点 1 上的项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_0000b.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_0000b.dir\Debug\”。
+  正在创建目录“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_0000b.dir\Debug\cmTC_0000b.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_0000b.dir\Debug\cmTC_0000b.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\VisualStdio2015\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_0000b.dir\Debug\\" /Fd"cmTC_0000b.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\CheckIncludeFiles.c
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.00.24213.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_0000b.dir\Debug\\" /Fd"cmTC_0000b.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\CheckIncludeFiles.c
+  
+  CheckIncludeFiles.c
+C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(2): fatal error C1083: 无法打开包括文件: “sys/ioctl.h”: No such file or directory [C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_0000b.vcxproj]
+已完成生成项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_0000b.vcxproj”(默认目标)的操作 - 失败。
+
+生成失败。
+
+“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_0000b.vcxproj”(默认目标) (1) ->
+(ClCompile 目标) -> 
+  C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(2): fatal error C1083: 无法打开包括文件: “sys/ioctl.h”: No such file or directory [C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_0000b.vcxproj]
+
+    0 个警告
+    1 个错误
+
+已用时间 00:00:04.57
+
+Source:
+/* */
+#include <sys/ioctl.h>
+
+
+int main(void){return 0;}
+
+Determining if files usbhid.h exist failed with the following output:
+Change Dir: C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_7ae9e.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) 生成引擎版本 14.0.25420.1
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/4/7 14:38:01。
+节点 1 上的项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_7ae9e.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_7ae9e.dir\Debug\”。
+  正在创建目录“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_7ae9e.dir\Debug\cmTC_7ae9e.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_7ae9e.dir\Debug\cmTC_7ae9e.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\VisualStdio2015\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_7ae9e.dir\Debug\\" /Fd"cmTC_7ae9e.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\CheckIncludeFiles.c
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.00.24213.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_7ae9e.dir\Debug\\" /Fd"cmTC_7ae9e.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\CheckIncludeFiles.c
+  
+  CheckIncludeFiles.c
+C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(2): fatal error C1083: 无法打开包括文件: “usbhid.h”: No such file or directory [C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_7ae9e.vcxproj]
+已完成生成项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_7ae9e.vcxproj”(默认目标)的操作 - 失败。
+
+生成失败。
+
+“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_7ae9e.vcxproj”(默认目标) (1) ->
+(ClCompile 目标) -> 
+  C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(2): fatal error C1083: 无法打开包括文件: “usbhid.h”: No such file or directory [C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_7ae9e.vcxproj]
+
+    0 个警告
+    1 个错误
+
+已用时间 00:00:02.62
+
+Source:
+/* */
+#include <usbhid.h>
+
+
+int main(void){return 0;}
+
+Determining if the function gettimeofday exists failed with the following output:
+Change Dir: C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_87fa3.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) 生成引擎版本 14.0.25420.1
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/4/7 14:38:04。
+节点 1 上的项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_87fa3.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_87fa3.dir\Debug\”。
+  正在创建目录“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_87fa3.dir\Debug\cmTC_87fa3.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_87fa3.dir\Debug\cmTC_87fa3.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\VisualStdio2015\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=gettimeofday /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_87fa3.dir\Debug\\" /Fd"cmTC_87fa3.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "D:\tools\cmake-3.6.1-win64-x64\cmake-3.6.1-win64-x64\share\cmake-3.6\Modules\CheckFunctionExists.c"
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.00.24213.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=gettimeofday /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_87fa3.dir\Debug\\" /Fd"cmTC_87fa3.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "D:\tools\cmake-3.6.1-win64-x64\cmake-3.6.1-win64-x64\share\cmake-3.6\Modules\CheckFunctionExists.c"
+  
+  CheckFunctionExists.c
+Link:
+  D:\VisualStdio2015\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\cmTC_87fa3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp/Debug/cmTC_87fa3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp/Debug/cmTC_87fa3.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_87fa3.dir\Debug\CheckFunctionExists.obj
+CheckFunctionExists.obj : error LNK2019: 无法解析的外部符号 _gettimeofday，该符号在函数 _main 中被引用 [C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_87fa3.vcxproj]
+C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\cmTC_87fa3.exe : fatal error LNK1120: 1 个无法解析的外部命令 [C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_87fa3.vcxproj]
+已完成生成项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_87fa3.vcxproj”(默认目标)的操作 - 失败。
+
+生成失败。
+
+“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_87fa3.vcxproj”(默认目标) (1) ->
+(Link 目标) -> 
+  CheckFunctionExists.obj : error LNK2019: 无法解析的外部符号 _gettimeofday，该符号在函数 _main 中被引用 [C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_87fa3.vcxproj]
+  C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\cmTC_87fa3.exe : fatal error LNK1120: 1 个无法解析的外部命令 [C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_87fa3.vcxproj]
+
+    0 个警告
+    2 个错误
+
+已用时间 00:00:04.38
+
+
+Determining if the function XParseGeometry exists failed with the following output:
+Change Dir: C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_d5e30.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) 生成引擎版本 14.0.25420.1
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/4/7 14:38:09。
+节点 1 上的项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_d5e30.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_d5e30.dir\Debug\”。
+  正在创建目录“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_d5e30.dir\Debug\cmTC_d5e30.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_d5e30.dir\Debug\cmTC_d5e30.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\VisualStdio2015\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=XParseGeometry /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d5e30.dir\Debug\\" /Fd"cmTC_d5e30.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "D:\tools\cmake-3.6.1-win64-x64\cmake-3.6.1-win64-x64\share\cmake-3.6\Modules\CheckFunctionExists.c"
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.00.24213.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=XParseGeometry /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d5e30.dir\Debug\\" /Fd"cmTC_d5e30.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "D:\tools\cmake-3.6.1-win64-x64\cmake-3.6.1-win64-x64\share\cmake-3.6\Modules\CheckFunctionExists.c"
+  
+  CheckFunctionExists.c
+Link:
+  D:\VisualStdio2015\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\cmTC_d5e30.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp/Debug/cmTC_d5e30.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp/Debug/cmTC_d5e30.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_d5e30.dir\Debug\CheckFunctionExists.obj
+CheckFunctionExists.obj : error LNK2019: 无法解析的外部符号 _XParseGeometry，该符号在函数 _main 中被引用 [C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_d5e30.vcxproj]
+C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\cmTC_d5e30.exe : fatal error LNK1120: 1 个无法解析的外部命令 [C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_d5e30.vcxproj]
+已完成生成项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_d5e30.vcxproj”(默认目标)的操作 - 失败。
+
+生成失败。
+
+“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_d5e30.vcxproj”(默认目标) (1) ->
+(Link 目标) -> 
+  CheckFunctionExists.obj : error LNK2019: 无法解析的外部符号 _XParseGeometry，该符号在函数 _main 中被引用 [C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_d5e30.vcxproj]
+  C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\cmTC_d5e30.exe : fatal error LNK1120: 1 个无法解析的外部命令 [C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_d5e30.vcxproj]
+
+    0 个警告
+    2 个错误
+
+已用时间 00:00:04.26
+
+

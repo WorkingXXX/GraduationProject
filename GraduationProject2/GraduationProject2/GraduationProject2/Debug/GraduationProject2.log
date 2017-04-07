@@ -1,0 +1,5 @@
+﻿  test.cpp
+c:\users\zzxx\desktop\graduationproject\graduationproject\graduationproject2\graduationproject2\graduationproject2\shadertools.h(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\zzxx\desktop\graduationproject\graduationproject\graduationproject2\graduationproject2\graduationproject2\shadertools.h(33): warning C4018: '<': signed/unsigned mismatch
+  GraduationProject2.vcxproj -> C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\GraduationProject2\GraduationProject2\Debug\GraduationProject2.exe
+  GraduationProject2.vcxproj -> C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\GraduationProject2\GraduationProject2\Debug\GraduationProject2.pdb (Partial PDB)

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\e7b44c26b1eae011b8482790b8d7d728\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B71F9F6F-2048-3B0E-A3C5-83B9BC152EB4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

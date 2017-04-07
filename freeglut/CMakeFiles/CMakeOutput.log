@@ -1,0 +1,527 @@
+The system is: Windows - 10.0.14393 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+Microsoft (R) 生成引擎版本 14.0.25420.1
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/4/7 14:34:32。
+节点 1 上的项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\3.6.1\CompilerIdC\CompilerIdC.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“Debug\”。
+  正在创建目录“Debug\CompilerIdC.tlog\”。
+InitializeBuildStatus:
+  正在创建“Debug\CompilerIdC.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\VisualStdio2015\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  D:\VisualStdio2015\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\3.6.1\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=D:\VisualStdio2015\VC\bin\cl.exe
+FinalizeBuildStatus:
+  正在删除文件“Debug\CompilerIdC.tlog\unsuccessfulbuild”。
+  正在对“Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate”执行 Touch 任务。
+已完成生成项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\3.6.1\CompilerIdC\CompilerIdC.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:04.62
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/3.6.1/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+Microsoft (R) 生成引擎版本 14.0.25420.1
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/4/7 14:34:37。
+节点 1 上的项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\3.6.1\CompilerIdCXX\CompilerIdCXX.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“Debug\”。
+  正在创建目录“Debug\CompilerIdCXX.tlog\”。
+InitializeBuildStatus:
+  正在创建“Debug\CompilerIdCXX.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\VisualStdio2015\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  D:\VisualStdio2015\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\3.6.1\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=D:\VisualStdio2015\VC\bin\cl.exe
+FinalizeBuildStatus:
+  正在删除文件“Debug\CompilerIdCXX.tlog\unsuccessfulbuild”。
+  正在对“Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate”执行 Touch 任务。
+已完成生成项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\3.6.1\CompilerIdCXX\CompilerIdCXX.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:02.96
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/3.6.1/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_22de4.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) 生成引擎版本 14.0.25420.1
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/4/7 14:34:42。
+节点 1 上的项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_22de4.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_22de4.dir\Debug\”。
+  正在创建目录“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_22de4.dir\Debug\cmTC_22de4.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_22de4.dir\Debug\cmTC_22de4.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\VisualStdio2015\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_22de4.dir\Debug\\" /Fd"cmTC_22de4.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\testCCompiler.c
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.00.24213.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_22de4.dir\Debug\\" /Fd"cmTC_22de4.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\testCCompiler.c
+  
+  testCCompiler.c
+Link:
+  D:\VisualStdio2015\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\cmTC_22de4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp/Debug/cmTC_22de4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp/Debug/cmTC_22de4.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_22de4.dir\Debug\testCCompiler.obj
+  cmTC_22de4.vcxproj -> C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\cmTC_22de4.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_22de4.dir\Debug\cmTC_22de4.tlog\unsuccessfulbuild”。
+  正在对“cmTC_22de4.dir\Debug\cmTC_22de4.tlog\cmTC_22de4.lastbuildstate”执行 Touch 任务。
+已完成生成项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_22de4.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:03.90
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_5c5c0.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) 生成引擎版本 14.0.25420.1
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/4/7 14:34:47。
+节点 1 上的项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_5c5c0.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_5c5c0.dir\Debug\”。
+  正在创建目录“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_5c5c0.dir\Debug\cmTC_5c5c0.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_5c5c0.dir\Debug\cmTC_5c5c0.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\VisualStdio2015\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5c5c0.dir\Debug\\" /Fd"cmTC_5c5c0.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "D:\tools\cmake-3.6.1-win64-x64\cmake-3.6.1-win64-x64\share\cmake-3.6\Modules\CMakeCCompilerABI.c"
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.00.24213.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5c5c0.dir\Debug\\" /Fd"cmTC_5c5c0.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "D:\tools\cmake-3.6.1-win64-x64\cmake-3.6.1-win64-x64\share\cmake-3.6\Modules\CMakeCCompilerABI.c"
+  
+  CMakeCCompilerABI.c
+Link:
+  D:\VisualStdio2015\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\cmTC_5c5c0.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp/Debug/cmTC_5c5c0.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp/Debug/cmTC_5c5c0.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_5c5c0.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_5c5c0.vcxproj -> C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\cmTC_5c5c0.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_5c5c0.dir\Debug\cmTC_5c5c0.tlog\unsuccessfulbuild”。
+  正在对“cmTC_5c5c0.dir\Debug\cmTC_5c5c0.tlog\cmTC_5c5c0.lastbuildstate”执行 Touch 任务。
+已完成生成项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_5c5c0.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:02.65
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_34c6a.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) 生成引擎版本 14.0.25420.1
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/4/7 14:34:51。
+节点 1 上的项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_34c6a.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_34c6a.dir\Debug\”。
+  正在创建目录“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_34c6a.dir\Debug\cmTC_34c6a.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_34c6a.dir\Debug\cmTC_34c6a.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\VisualStdio2015\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_34c6a.dir\Debug\\" /Fd"cmTC_34c6a.dir\Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.00.24213.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_34c6a.dir\Debug\\" /Fd"cmTC_34c6a.dir\Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+  
+  testCXXCompiler.cxx
+Link:
+  D:\VisualStdio2015\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\cmTC_34c6a.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp/Debug/cmTC_34c6a.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp/Debug/cmTC_34c6a.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_34c6a.dir\Debug\testCXXCompiler.obj
+  cmTC_34c6a.vcxproj -> C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\cmTC_34c6a.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_34c6a.dir\Debug\cmTC_34c6a.tlog\unsuccessfulbuild”。
+  正在对“cmTC_34c6a.dir\Debug\cmTC_34c6a.tlog\cmTC_34c6a.lastbuildstate”执行 Touch 任务。
+已完成生成项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_34c6a.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:07.90
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_e68d1.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) 生成引擎版本 14.0.25420.1
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/4/7 14:35:19。
+节点 1 上的项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_e68d1.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_e68d1.dir\Debug\”。
+  正在创建目录“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_e68d1.dir\Debug\cmTC_e68d1.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_e68d1.dir\Debug\cmTC_e68d1.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\VisualStdio2015\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_e68d1.dir\Debug\\" /Fd"cmTC_e68d1.dir\Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue "D:\tools\cmake-3.6.1-win64-x64\cmake-3.6.1-win64-x64\share\cmake-3.6\Modules\CMakeCXXCompilerABI.cpp"
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.00.24213.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_e68d1.dir\Debug\\" /Fd"cmTC_e68d1.dir\Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue "D:\tools\cmake-3.6.1-win64-x64\cmake-3.6.1-win64-x64\share\cmake-3.6\Modules\CMakeCXXCompilerABI.cpp"
+  
+  CMakeCXXCompilerABI.cpp
+Link:
+  D:\VisualStdio2015\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\cmTC_e68d1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp/Debug/cmTC_e68d1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp/Debug/cmTC_e68d1.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_e68d1.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTC_e68d1.vcxproj -> C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\cmTC_e68d1.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_e68d1.dir\Debug\cmTC_e68d1.tlog\unsuccessfulbuild”。
+  正在对“cmTC_e68d1.dir\Debug\cmTC_e68d1.tlog\cmTC_e68d1.lastbuildstate”执行 Touch 任务。
+已完成生成项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_e68d1.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:09.27
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_d8129.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) 生成引擎版本 14.0.25420.1
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/4/7 14:35:35。
+节点 1 上的项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_d8129.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_d8129.dir\Debug\”。
+  正在创建目录“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_d8129.dir\Debug\cmTC_d8129.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_d8129.dir\Debug\cmTC_d8129.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\VisualStdio2015\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_d8129.dir\Debug\\" /Fd"cmTC_d8129.dir\Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\feature_tests.cxx
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.00.24213.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_d8129.dir\Debug\\" /Fd"cmTC_d8129.dir\Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\feature_tests.cxx
+  
+  feature_tests.cxx
+Link:
+  D:\VisualStdio2015\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\cmTC_d8129.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp/Debug/cmTC_d8129.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp/Debug/cmTC_d8129.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_d8129.dir\Debug\feature_tests.obj
+  cmTC_d8129.vcxproj -> C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\cmTC_d8129.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_d8129.dir\Debug\cmTC_d8129.tlog\unsuccessfulbuild”。
+  正在对“cmTC_d8129.dir\Debug\cmTC_d8129.tlog\cmTC_d8129.lastbuildstate”执行 Touch 任务。
+已完成生成项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_d8129.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:06.07
+
+
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:1cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:1cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:1cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:1cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
+Determining if files sys/types.h exist passed with the following output:
+Change Dir: C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_846b1.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) 生成引擎版本 14.0.25420.1
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/4/7 14:35:49。
+节点 1 上的项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_846b1.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_846b1.dir\Debug\”。
+  正在创建目录“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_846b1.dir\Debug\cmTC_846b1.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_846b1.dir\Debug\cmTC_846b1.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\VisualStdio2015\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_846b1.dir\Debug\\" /Fd"cmTC_846b1.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\CheckIncludeFiles.c
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.00.24213.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_846b1.dir\Debug\\" /Fd"cmTC_846b1.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\CheckIncludeFiles.c
+  
+  CheckIncludeFiles.c
+Link:
+  D:\VisualStdio2015\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\cmTC_846b1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp/Debug/cmTC_846b1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp/Debug/cmTC_846b1.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_846b1.dir\Debug\CheckIncludeFiles.obj
+  cmTC_846b1.vcxproj -> C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\cmTC_846b1.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_846b1.dir\Debug\cmTC_846b1.tlog\unsuccessfulbuild”。
+  正在对“cmTC_846b1.dir\Debug\cmTC_846b1.tlog\cmTC_846b1.lastbuildstate”执行 Touch 任务。
+已完成生成项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_846b1.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:05.57
+
+
+Determining if files stdbool.h exist passed with the following output:
+Change Dir: C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_87641.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) 生成引擎版本 14.0.25420.1
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/4/7 14:37:09。
+节点 1 上的项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_87641.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_87641.dir\Debug\”。
+  正在创建目录“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_87641.dir\Debug\cmTC_87641.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_87641.dir\Debug\cmTC_87641.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\VisualStdio2015\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_87641.dir\Debug\\" /Fd"cmTC_87641.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\CheckIncludeFiles.c
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.00.24213.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_87641.dir\Debug\\" /Fd"cmTC_87641.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\CheckIncludeFiles.c
+  
+  CheckIncludeFiles.c
+Link:
+  D:\VisualStdio2015\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\cmTC_87641.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp/Debug/cmTC_87641.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp/Debug/cmTC_87641.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_87641.dir\Debug\CheckIncludeFiles.obj
+  cmTC_87641.vcxproj -> C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\cmTC_87641.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_87641.dir\Debug\cmTC_87641.tlog\unsuccessfulbuild”。
+  正在对“cmTC_87641.dir\Debug\cmTC_87641.tlog\cmTC_87641.lastbuildstate”执行 Touch 任务。
+已完成生成项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_87641.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:07.53
+
+
+Determining if files fcntl.h exist passed with the following output:
+Change Dir: C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_ac4f5.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) 生成引擎版本 14.0.25420.1
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/4/7 14:37:46。
+节点 1 上的项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_ac4f5.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_ac4f5.dir\Debug\”。
+  正在创建目录“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_ac4f5.dir\Debug\cmTC_ac4f5.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_ac4f5.dir\Debug\cmTC_ac4f5.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\VisualStdio2015\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ac4f5.dir\Debug\\" /Fd"cmTC_ac4f5.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\CheckIncludeFiles.c
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.00.24213.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ac4f5.dir\Debug\\" /Fd"cmTC_ac4f5.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\CheckIncludeFiles.c
+  
+  CheckIncludeFiles.c
+Link:
+  D:\VisualStdio2015\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\cmTC_ac4f5.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp/Debug/cmTC_ac4f5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp/Debug/cmTC_ac4f5.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_ac4f5.dir\Debug\CheckIncludeFiles.obj
+  cmTC_ac4f5.vcxproj -> C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\cmTC_ac4f5.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_ac4f5.dir\Debug\cmTC_ac4f5.tlog\unsuccessfulbuild”。
+  正在对“cmTC_ac4f5.dir\Debug\cmTC_ac4f5.tlog\cmTC_ac4f5.lastbuildstate”执行 Touch 任务。
+已完成生成项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_ac4f5.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:07.24
+
+
+Determining if files stdint.h exist passed with the following output:
+Change Dir: C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_00350.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) 生成引擎版本 14.0.25420.1
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/4/7 14:38:14。
+节点 1 上的项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_00350.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_00350.dir\Debug\”。
+  正在创建目录“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_00350.dir\Debug\cmTC_00350.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_00350.dir\Debug\cmTC_00350.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\VisualStdio2015\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_00350.dir\Debug\\" /Fd"cmTC_00350.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\CheckIncludeFiles.c
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.00.24213.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_00350.dir\Debug\\" /Fd"cmTC_00350.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\CheckIncludeFiles.c
+  
+  CheckIncludeFiles.c
+Link:
+  D:\VisualStdio2015\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\cmTC_00350.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp/Debug/cmTC_00350.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp/Debug/cmTC_00350.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_00350.dir\Debug\CheckIncludeFiles.obj
+  cmTC_00350.vcxproj -> C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\cmTC_00350.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_00350.dir\Debug\cmTC_00350.tlog\unsuccessfulbuild”。
+  正在对“cmTC_00350.dir\Debug\cmTC_00350.tlog\cmTC_00350.lastbuildstate”执行 Touch 任务。
+已完成生成项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_00350.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:04.40
+
+
+Determining if files inttypes.h exist passed with the following output:
+Change Dir: C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_04076.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) 生成引擎版本 14.0.25420.1
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/4/7 14:38:19。
+节点 1 上的项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_04076.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_04076.dir\Debug\”。
+  正在创建目录“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_04076.dir\Debug\cmTC_04076.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_04076.dir\Debug\cmTC_04076.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\VisualStdio2015\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_04076.dir\Debug\\" /Fd"cmTC_04076.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\CheckIncludeFiles.c
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.00.24213.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_04076.dir\Debug\\" /Fd"cmTC_04076.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\CheckIncludeFiles.c
+  
+  CheckIncludeFiles.c
+Link:
+  D:\VisualStdio2015\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\cmTC_04076.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp/Debug/cmTC_04076.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/CMakeFiles/CMakeTmp/Debug/cmTC_04076.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_04076.dir\Debug\CheckIncludeFiles.obj
+  cmTC_04076.vcxproj -> C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\Debug\cmTC_04076.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_04076.dir\Debug\cmTC_04076.tlog\unsuccessfulbuild”。
+  正在对“cmTC_04076.dir\Debug\cmTC_04076.tlog\cmTC_04076.lastbuildstate”执行 Touch 任务。
+已完成生成项目“C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\CMakeTmp\cmTC_04076.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:05.71
+
+

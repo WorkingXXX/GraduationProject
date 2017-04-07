@@ -1,4 +1,9 @@
-﻿  ShaderManager.cpp
-c:\users\zzxx\desktop\graduationproject\graduationproject\graduationproject\graduationproject\gl\eglew.h(106): fatal error C1083: Cannot open include file: 'KHR/khrplatform.h': No such file or directory
-  main.cpp
+﻿  test.cpp
+c:\users\zzxx\desktop\graduationproject\graduationproject\graduationproject\graduationproject\shadertools.h(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\zzxx\desktop\graduationproject\graduationproject\graduationproject\graduationproject\shadertools.h(33): warning C4018: '<': signed/unsigned mismatch
+  ShaderManager.cpp
+c:\users\zzxx\desktop\graduationproject\graduationproject\graduationproject\graduationproject\shadertools.h(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\zzxx\desktop\graduationproject\graduationproject\graduationproject\graduationproject\shadertools.h(33): warning C4018: '<': signed/unsigned mismatch
   Generating Code...
+  GraduationProject.vcxproj -> C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\GraduationProject\Debug\GraduationProject.exe
+  GraduationProject.vcxproj -> C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\GraduationProject\Debug\GraduationProject.pdb (Partial PDB)

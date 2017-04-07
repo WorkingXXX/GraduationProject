@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/ZZXX/Desktop/GraduationProject/GraduationProject/freeglut/freeglut-3.0.0/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\CMakeFiles\generate.stamp is up-to-date.
+  shapes.c
+  glmatrix.c
+  正在生成代码...
+  shapes.vcxproj -> C:\Users\ZZXX\Desktop\GraduationProject\GraduationProject\freeglut\bin\Release\shapes.exe
